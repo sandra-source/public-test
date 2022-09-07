@@ -3,5 +3,5 @@
 >Status do projeto: testando
 
 ```
-npm install
+node app.js
 ```
